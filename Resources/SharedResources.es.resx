@@ -2496,4 +2496,25 @@
   <data name="Your Wishlists" xml:space="preserve">
     <value>Tus listas de deseos</value>
   </data>
+  <data name="/abs/dashboard/assets/media/flags/128-spain.svg" xml:space="preserve">
+    <value>/abs/dashboard/assets/media/flags/226-united-states.svg</value>
+  </data>
+  <data name="/abs/dashboard/assets/media/flags/226-united-states.svg" xml:space="preserve">
+    <value>/abs/dashboard/assets/media/flags/128-spain.svg</value>
+  </data>
+  <data name="en-US" xml:space="preserve">
+    <value>es-CO</value>
+  </data>
+  <data name="es-CO" xml:space="preserve">
+    <value>en-US</value>
+  </data>
+  <data name="Spanish" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="https://wcs-ibmshowcase-fenixalliancesas.mydmportal.com/Home" xml:space="preserve">
+    <value>https://wcs-es-la-ibmshowcase-fenixalliancesas.mydmportal.com/Home</value>
+  </data>
+  <data name="Investor Center" xml:space="preserve">
+    <value>Centro de Inversionistas</value>
+  </data>
 </root>
