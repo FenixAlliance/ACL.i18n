@@ -110,4 +110,10 @@
     <None Include="Icon.png" Pack="True" PackagePath="" />
     <None Include="LICENSE.md" Pack="True" PackagePath="" />
   </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Resources\SharedResources.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
 </Project>
