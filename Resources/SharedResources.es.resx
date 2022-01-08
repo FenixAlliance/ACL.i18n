@@ -126,8 +126,20 @@
   <data name="2 Factor Authentication" xml:space="preserve">
     <value>Autenticación Multi-Factor</value>
   </data>
+  <data name="28 Days Month" xml:space="preserve">
+    <value>Mes de 28 días</value>
+  </data>
+  <data name="29 Days Month" xml:space="preserve">
+    <value>Mes de 29 días</value>
+  </data>
   <data name="2FA Enabled" xml:space="preserve">
     <value>2FA habilitado</value>
+  </data>
+  <data name="30 Days Month" xml:space="preserve">
+    <value>Mes de 30 días</value>
+  </data>
+  <data name="31 Days Month" xml:space="preserve">
+    <value>Mes de 31 días </value>
   </data>
   <data name="A few words from our past students." xml:space="preserve">
     <value>Algunas palabras de nuestros antiguos alumnos.</value>
@@ -156,8 +168,23 @@
   <data name="Accounting Manager" xml:space="preserve">
     <value>Gestor Contable</value>
   </data>
+  <data name="Accounts" xml:space="preserve">
+    <value>Cuentas</value>
+  </data>
+  <data name="Actions" xml:space="preserve">
+    <value>Acciones</value>
+  </data>
+  <data name="Activities" xml:space="preserve">
+    <value>Actividades</value>
+  </data>
   <data name="Add authenticator app" xml:space="preserve">
     <value>Agregar aplicación de autenticación</value>
+  </data>
+  <data name="Affiliate Businesses" xml:space="preserve">
+    <value>Filiales</value>
+  </data>
+  <data name="All Modules" xml:space="preserve">
+    <value>Todos los Módulos</value>
   </data>
   <data name="All Tenants" xml:space="preserve">
     <value>Todos los Perfiles de Negocios</value>
@@ -186,6 +213,9 @@
   <data name="Applications" xml:space="preserve">
     <value>Aplicaciones</value>
   </data>
+  <data name="ASIN" xml:space="preserve">
+    <value>ASIN</value>
+  </data>
   <data name="Assemblies" xml:space="preserve">
     <value>Ensamblados</value>
   </data>
@@ -194,6 +224,9 @@
   </data>
   <data name="Asset Manager" xml:space="preserve">
     <value>Gestor de activos</value>
+  </data>
+  <data name="Assets" xml:space="preserve">
+    <value>Activos</value>
   </data>
   <data name="Associate your {0} account." xml:space="preserve">
     <value>Asocia tu cuenta de {0}.</value>
@@ -237,6 +270,9 @@
   <data name="Banks" xml:space="preserve">
     <value>Bancos</value>
   </data>
+  <data name="Barcode" xml:space="preserve">
+    <value>Código de Barras</value>
+  </data>
   <data name="Base Amount" xml:space="preserve">
     <value>Monto base</value>
   </data>
@@ -258,8 +294,20 @@
   <data name="Bloqueo habilitado" xml:space="preserve">
     <value>Fin del Bloqueo</value>
   </data>
+  <data name="Brands" xml:space="preserve">
+    <value>Marcas</value>
+  </data>
+  <data name="Bulk Actions" xml:space="preserve">
+    <value>Acciones en Lote</value>
+  </data>
+  <data name="Bulk Update" xml:space="preserve">
+    <value>Actualizar en Lote</value>
+  </data>
   <data name="Business" xml:space="preserve">
     <value>Negocio</value>
+  </data>
+  <data name="Business Applications" xml:space="preserve">
+    <value>Aplicaciones Empresariales</value>
   </data>
   <data name="Business Cart" xml:space="preserve">
     <value>Carrito Empresarial</value>
@@ -294,6 +342,9 @@
   <data name="Busy" xml:space="preserve">
     <value>Ocupado(a)</value>
   </data>
+  <data name="Cancel Changes" xml:space="preserve">
+    <value>Cancelar Cambios</value>
+  </data>
   <data name="Cardholder First Name" xml:space="preserve">
     <value>Nombre en la Tarjeta</value>
   </data>
@@ -306,11 +357,20 @@
   <data name="Carts" xml:space="preserve">
     <value>Carritos</value>
   </data>
+  <data name="Categories" xml:space="preserve">
+    <value>Categorías</value>
+  </data>
+  <data name="Centimeters" xml:space="preserve">
+    <value>Centímetros</value>
+  </data>
   <data name="Change Password" xml:space="preserve">
     <value>Cambiar Contraseña</value>
   </data>
   <data name="City" xml:space="preserve">
     <value>Ciudad</value>
+  </data>
+  <data name="Classes" xml:space="preserve">
+    <value>Clases</value>
   </data>
   <data name="Click here to" xml:space="preserve">
     <value>Click aquí para</value>
@@ -363,6 +423,9 @@
   <data name="Country" xml:space="preserve">
     <value>País</value>
   </data>
+  <data name="Couriers" xml:space="preserve">
+    <value>Mensajeros</value>
+  </data>
   <data name="Course" xml:space="preserve">
     <value>Curso</value>
   </data>
@@ -387,6 +450,9 @@
   <data name="Create Business Tenant" xml:space="preserve">
     <value>Crear Perfil Empresarial</value>
   </data>
+  <data name="Create New" xml:space="preserve">
+    <value>Crear Nuevo</value>
+  </data>
   <data name="Create Order" xml:space="preserve">
     <value>Crear Orden</value>
   </data>
@@ -408,14 +474,35 @@
   <data name="Currency" xml:space="preserve">
     <value>Divisa</value>
   </data>
+  <data name="Current Stock" xml:space="preserve">
+    <value>Inventario Actual</value>
+  </data>
+  <data name="Custom Tax Name" xml:space="preserve">
+    <value>Nombre Impuesto Personalizado </value>
+  </data>
+  <data name="Custom Tax Percentage" xml:space="preserve">
+    <value>Porcentaje Impuesto Personalizado</value>
+  </data>
+  <data name="Custom Tax Value" xml:space="preserve">
+    <value>Monto Impuesto Personalizado</value>
+  </data>
   <data name="CVC" xml:space="preserve">
     <value>CVC</value>
   </data>
   <data name="Dashboard" xml:space="preserve">
     <value>Panel de Control</value>
   </data>
+  <data name="Day" xml:space="preserve">
+    <value>Día</value>
+  </data>
   <data name="Days" xml:space="preserve">
     <value>Días</value>
+  </data>
+  <data name="Deadline" xml:space="preserve">
+    <value>Fecla límite</value>
+  </data>
+  <data name="Deal Units" xml:space="preserve">
+    <value>Oportunidades</value>
   </data>
   <data name="Debit" xml:space="preserve">
     <value>Débito</value>
@@ -429,14 +516,20 @@
   <data name="Default sorting" xml:space="preserve">
     <value>Nombre</value>
   </data>
+  <data name="Delete Stock Item" xml:space="preserve">
+    <value>Borrar Artículo de Inventario</value>
+  </data>
   <data name="Delete User" xml:space="preserve">
     <value>Borrar Usuario</value>
+  </data>
+  <data name="Descripción del Artículo" xml:space="preserve">
+    <value>Título del Artículo</value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>Descripción</value>
   </data>
   <data name="Details" xml:space="preserve">
-    <value>Detailles</value>
+    <value>Detalles</value>
   </data>
   <data name="Dev Mode" xml:space="preserve">
     <value>Modo de desarrollo</value>
@@ -449,6 +542,18 @@
   </data>
   <data name="Disabling 2FA does not change the keys used in authenticator apps." xml:space="preserve">
     <value>La desactivación de 2FA no cambia las claves utilizadas en las aplicaciones de autenticación.</value>
+  </data>
+  <data name="Discount Amount" xml:space="preserve">
+    <value>Monto de Descuento</value>
+  </data>
+  <data name="Discount Percentage" xml:space="preserve">
+    <value>Procentaje de Descuento</value>
+  </data>
+  <data name="Display Categorizer" xml:space="preserve">
+    <value>Abrir Categorizador</value>
+  </data>
+  <data name="Distance" xml:space="preserve">
+    <value>Distancia</value>
   </data>
   <data name="Do Not Disturb" xml:space="preserve">
     <value>No molestar</value>
@@ -471,8 +576,14 @@
   <data name="Dues" xml:space="preserve">
     <value>Cuotas</value>
   </data>
+  <data name="EAN" xml:space="preserve">
+    <value>EAN</value>
+  </data>
   <data name="Edit Profile" xml:space="preserve">
     <value>Editar Perfil</value>
+  </data>
+  <data name="Edit Stock Item" xml:space="preserve">
+    <value>Editar artículo de stock</value>
   </data>
   <data name="Email" xml:space="preserve">
     <value>Correo Electrónico</value>
@@ -485,6 +596,9 @@
   </data>
   <data name="Enabled" xml:space="preserve">
     <value>Activado</value>
+  </data>
+  <data name="End Date" xml:space="preserve">
+    <value>Fecha Final</value>
   </data>
   <data name="English" xml:space="preserve">
     <value>Inglés</value>
@@ -507,11 +621,26 @@
   <data name="Error" xml:space="preserve">
     <value>Error</value>
   </data>
+  <data name="Estimated Profit" xml:space="preserve">
+    <value>Ganancia Estimada</value>
+  </data>
+  <data name="Estimated Revenue" xml:space="preserve">
+    <value>Ingreso Estimado</value>
+  </data>
+  <data name="Estimated Tevenue" xml:space="preserve">
+    <value>Ingreso Estimado</value>
+  </data>
+  <data name="Expenses" xml:space="preserve">
+    <value>Egresos</value>
+  </data>
   <data name="Expiration Date" xml:space="preserve">
     <value>Fecha Expiración</value>
   </data>
   <data name="Externa Logins" xml:space="preserve">
     <value>Proveedores de Identidad</value>
+  </data>
+  <data name="Extimated Taxes" xml:space="preserve">
+    <value>Impuestos Estimados</value>
   </data>
   <data name="Failed Access Attempts" xml:space="preserve">
     <value>Intentos de acceso fallidos</value>
@@ -519,8 +648,14 @@
   <data name="False" xml:space="preserve">
     <value>Falso</value>
   </data>
+  <data name="Families" xml:space="preserve">
+    <value>Familias</value>
+  </data>
   <data name="Fee" xml:space="preserve">
     <value>Tarifa</value>
+  </data>
+  <data name="Fixed Discount" xml:space="preserve">
+    <value>Descuento Fijo</value>
   </data>
   <data name="Follow" xml:space="preserve">
     <value>Seguir</value>
@@ -564,6 +699,9 @@
   <data name="Generic Options" xml:space="preserve">
     <value>Opciones Genéricas</value>
   </data>
+  <data name="Grams" xml:space="preserve">
+    <value>Gramos</value>
+  </data>
   <data name="Gran total" xml:space="preserve">
     <value>Gran total</value>
   </data>
@@ -572,6 +710,9 @@
   </data>
   <data name="Groups" xml:space="preserve">
     <value>Grupos</value>
+  </data>
+  <data name="GTIN" xml:space="preserve">
+    <value>GTIN</value>
   </data>
   <data name="Hello World!" xml:space="preserve">
     <value>Hola Mundo!</value>
@@ -590,6 +731,9 @@
   </data>
   <data name="Holders Network" xml:space="preserve">
     <value>Red de Usuarios</value>
+  </data>
+  <data name="Hour" xml:space="preserve">
+    <value>Hora</value>
   </data>
   <data name="Hours" xml:space="preserve">
     <value>Horas</value>
@@ -624,6 +768,18 @@
   <data name="If you wish to change the key used in an authenticator app you should" xml:space="preserve">
     <value>Si deseas cambiar la clave utilizada en una aplicación de autenticación, debes</value>
   </data>
+  <data name="Image" xml:space="preserve">
+    <value>Imágen</value>
+  </data>
+  <data name="Images" xml:space="preserve">
+    <value>Imágenes</value>
+  </data>
+  <data name="In Stock" xml:space="preserve">
+    <value>En Inventario</value>
+  </data>
+  <data name="In Store" xml:space="preserve">
+    <value>En la Tienda</value>
+  </data>
   <data name="In test mode?" xml:space="preserve">
     <value>¿En modo de prueba?</value>
   </data>
@@ -632,6 +788,12 @@
   </data>
   <data name="Income Tax Withholding" xml:space="preserve">
     <value>Retención del impuesto sobre la renta</value>
+  </data>
+  <data name="Incomes" xml:space="preserve">
+    <value>Ingresos</value>
+  </data>
+  <data name="Individuals" xml:space="preserve">
+    <value>Individuos</value>
   </data>
   <data name="Instructor" xml:space="preserve">
     <value>Instructor</value>
@@ -645,6 +807,39 @@
   <data name="Invoices" xml:space="preserve">
     <value>Facturas</value>
   </data>
+  <data name="Item Attributes" xml:space="preserve">
+    <value>Atributos de artículos</value>
+  </data>
+  <data name="Item Brands" xml:space="preserve">
+    <value>Marcas de artículos</value>
+  </data>
+  <data name="Item Bundles" xml:space="preserve">
+    <value>Paquetes de artículos</value>
+  </data>
+  <data name="Item Categories" xml:space="preserve">
+    <value>Categorías de artículos</value>
+  </data>
+  <data name="Item Description" xml:space="preserve">
+    <value>Descripción del Artículo</value>
+  </data>
+  <data name="Item Families" xml:space="preserve">
+    <value>Familias de artículos</value>
+  </data>
+  <data name="Item Prices" xml:space="preserve">
+    <value>Precios de Artículos</value>
+  </data>
+  <data name="Item Reviews" xml:space="preserve">
+    <value>Reseñas de artículos</value>
+  </data>
+  <data name="Item Tags" xml:space="preserve">
+    <value>Etiquetas de artículos</value>
+  </data>
+  <data name="Item Types" xml:space="preserve">
+    <value>Tipos de artículos</value>
+  </data>
+  <data name="Job Offers" xml:space="preserve">
+    <value>Ofertas de Empleo</value>
+  </data>
   <data name="Join" xml:space="preserve">
     <value>Unirse</value>
   </data>
@@ -653,6 +848,15 @@
   </data>
   <data name="Keep me logged in on this device?" xml:space="preserve">
     <value>Mantener Sesión Iniciada en este dispositivo</value>
+  </data>
+  <data name="Kilograms" xml:space="preserve">
+    <value>Kilogramos</value>
+  </data>
+  <data name="Kilometers" xml:space="preserve">
+    <value>Kilómetros</value>
+  </data>
+  <data name="Labels" xml:space="preserve">
+    <value>Etiquetas de Envío</value>
   </data>
   <data name="Language" xml:space="preserve">
     <value>Idioma</value>
@@ -665,6 +869,15 @@
   </data>
   <data name="Last Names" xml:space="preserve">
     <value>Apellidos</value>
+  </data>
+  <data name="Leads" xml:space="preserve">
+    <value>Leads</value>
+  </data>
+  <data name="Leap Year (Gregorian Calendar)" xml:space="preserve">
+    <value>Año bisiesto (calendario gregoriano)</value>
+  </data>
+  <data name="Leap Year (Islamic Calendar)" xml:space="preserve">
+    <value>Año bisiesto (calendario islámico)</value>
   </data>
   <data name="Let's get social!" xml:space="preserve">
     <value>¡Pongámonos sociales!</value>
@@ -714,11 +927,23 @@
   <data name="Manage Business Profile" xml:space="preserve">
     <value>Administrar perfil comercial</value>
   </data>
+  <data name="Manage Inventory" xml:space="preserve">
+    <value>Administrar Inventario</value>
+  </data>
   <data name="Manage your Profile" xml:space="preserve">
     <value>Administra tu perfil</value>
   </data>
+  <data name="Manufacturer Part Number" xml:space="preserve">
+    <value>Número de pieza del fabricante</value>
+  </data>
   <data name="Manufacturing" xml:space="preserve">
     <value>Manufactura</value>
+  </data>
+  <data name="Margin Policies" xml:space="preserve">
+    <value>Políticas de Márgenes</value>
+  </data>
+  <data name="Mass" xml:space="preserve">
+    <value>Masa</value>
   </data>
   <data name="Max Price" xml:space="preserve">
     <value>Precio Máximo</value>
@@ -735,8 +960,23 @@
   <data name="Message" xml:space="preserve">
     <value>Mensaje</value>
   </data>
+  <data name="Meters" xml:space="preserve">
+    <value>Metros</value>
+  </data>
+  <data name="Methods" xml:space="preserve">
+    <value>Métodos</value>
+  </data>
+  <data name="Miligrams" xml:space="preserve">
+    <value>Miligramos</value>
+  </data>
+  <data name="Millimeters" xml:space="preserve">
+    <value>Milimetros</value>
+  </data>
   <data name="Min Price" xml:space="preserve">
     <value>Precio Mínimo</value>
+  </data>
+  <data name="Minute" xml:space="preserve">
+    <value>Minuto</value>
   </data>
   <data name="Minutes" xml:space="preserve">
     <value>Minutos</value>
@@ -765,8 +1005,35 @@
   <data name="Network Manager" xml:space="preserve">
     <value>Administrador de la Red</value>
   </data>
+  <data name="No Brands" xml:space="preserve">
+    <value>Sin Marcas</value>
+  </data>
   <data name="No Business Selected" xml:space="preserve">
     <value>Negocio no seleccionado</value>
+  </data>
+  <data name="No Categories" xml:space="preserve">
+    <value>Sin Categorías</value>
+  </data>
+  <data name="No Margins" xml:space="preserve">
+    <value>Sin Márgenes</value>
+  </data>
+  <data name="No Pricing Rules" xml:space="preserve">
+    <value>Sin Reglas de Precios</value>
+  </data>
+  <data name="No Refund Policies" xml:space="preserve">
+    <value>Sin Políticas de Reembolsos</value>
+  </data>
+  <data name="No Return Policies" xml:space="preserve">
+    <value>Sin Políticas de Devoluciones</value>
+  </data>
+  <data name="No Shipping Policies" xml:space="preserve">
+    <value>Sin Políticas de Envío</value>
+  </data>
+  <data name="No Types" xml:space="preserve">
+    <value>Sin Tipos</value>
+  </data>
+  <data name="No Warranty Policies" xml:space="preserve">
+    <value>Sin Políticas de Garantía</value>
   </data>
   <data name="Not Operational" xml:space="preserve">
     <value>No Operacional</value>
@@ -789,6 +1056,9 @@
   <data name="Offline" xml:space="preserve">
     <value>Desconectado</value>
   </data>
+  <data name="On Discount" xml:space="preserve">
+    <value>En Descuento</value>
+  </data>
   <data name="Ooops! This looks empty" xml:space="preserve">
     <value>¡Vaya! Esto luce vacío</value>
   </data>
@@ -810,17 +1080,44 @@
   <data name="Orders" xml:space="preserve">
     <value>Órdenes</value>
   </data>
+  <data name="Organizations" xml:space="preserve">
+    <value>Organizaciones</value>
+  </data>
   <data name="OS" xml:space="preserve">
     <value>SO</value>
   </data>
   <data name="Outlook" xml:space="preserve">
     <value>Resumen</value>
   </data>
+  <data name="Package Height" xml:space="preserve">
+    <value>Altura del Paquete</value>
+  </data>
+  <data name="Package Length" xml:space="preserve">
+    <value>Largo del Paquete</value>
+  </data>
+  <data name="Package Weight" xml:space="preserve">
+    <value>Peso del Paquete</value>
+  </data>
+  <data name="Package Width" xml:space="preserve">
+    <value>Ancho del Paquete</value>
+  </data>
+  <data name="Packages" xml:space="preserve">
+    <value>Paquetes</value>
+  </data>
+  <data name="Packing Slips" xml:space="preserve">
+    <value>Albaranes</value>
+  </data>
   <data name="Paged Memory" xml:space="preserve">
     <value>Memoria paginada</value>
   </data>
   <data name="Paid" xml:space="preserve">
     <value>Pagado</value>
+  </data>
+  <data name="Parent Item" xml:space="preserve">
+    <value>Artículo Padre</value>
+  </data>
+  <data name="Parent Items" xml:space="preserve">
+    <value>Item Padre</value>
   </data>
   <data name="Parts" xml:space="preserve">
     <value>Partes</value>
@@ -876,6 +1173,9 @@
   <data name="Phone Number Confirmed" xml:space="preserve">
     <value>Número de Teléfono Confirmado</value>
   </data>
+  <data name="Pick Lists" xml:space="preserve">
+    <value>Listas de selección</value>
+  </data>
   <data name="Please check it back soon." xml:space="preserve">
     <value>Vuelve a chequear pronto.</value>
   </data>
@@ -885,6 +1185,9 @@
   <data name="Please contact support." xml:space="preserve">
     <value>Please contact support.</value>
   </data>
+  <data name="Policies" xml:space="preserve">
+    <value>Políticas</value>
+  </data>
   <data name="Portal" xml:space="preserve">
     <value>Portal</value>
   </data>
@@ -893,6 +1196,30 @@
   </data>
   <data name="Price" xml:space="preserve">
     <value>Precio</value>
+  </data>
+  <data name="Price Lists" xml:space="preserve">
+    <value>Listas de precios</value>
+  </data>
+  <data name="Pricing Rules" xml:space="preserve">
+    <value>Reglas de Precios</value>
+  </data>
+  <data name="Primary Brand" xml:space="preserve">
+    <value>Marca Primaria</value>
+  </data>
+  <data name="Primary Categories" xml:space="preserve">
+    <value>Categorías Primarias</value>
+  </data>
+  <data name="Primary Category" xml:space="preserve">
+    <value>Categoría Primaria</value>
+  </data>
+  <data name="Primary Image" xml:space="preserve">
+    <value>Imágen Principal</value>
+  </data>
+  <data name="Primary Supplier" xml:space="preserve">
+    <value>Priveedor Principal</value>
+  </data>
+  <data name="Primary Type" xml:space="preserve">
+    <value>Tipo Principal</value>
   </data>
   <data name="Priority" xml:space="preserve">
     <value>Prioridad</value>
@@ -912,8 +1239,14 @@
   <data name="Product Description" xml:space="preserve">
     <value>Descripción del Producto</value>
   </data>
+  <data name="Product Model" xml:space="preserve">
+    <value>Modelo del Producto</value>
+  </data>
   <data name="Product Name" xml:space="preserve">
     <value>Nombre del producto</value>
+  </data>
+  <data name="Product Series" xml:space="preserve">
+    <value>Serie del Producto</value>
   </data>
   <data name="Products" xml:space="preserve">
     <value>Productos</value>
@@ -924,14 +1257,26 @@
   <data name="Profile" xml:space="preserve">
     <value>Perfil</value>
   </data>
+  <data name="Projects" xml:space="preserve">
+    <value>Proyectos</value>
+  </data>
   <data name="Public Name" xml:space="preserve">
     <value>Nombre Público</value>
+  </data>
+  <data name="Published" xml:space="preserve">
+    <value>Publicado</value>
+  </data>
+  <data name="Purchases" xml:space="preserve">
+    <value>Compras</value>
   </data>
   <data name="Put these codes in a safe place." xml:space="preserve">
     <value>Guarde estos códigos en un lugar seguro.</value>
   </data>
   <data name="Quantity" xml:space="preserve">
     <value>Cantidad</value>
+  </data>
+  <data name="Quick Create" xml:space="preserve">
+    <value>Crear</value>
   </data>
   <data name="Quick Links" xml:space="preserve">
     <value>Enlaces rápidos</value>
@@ -944,6 +1289,9 @@
   </data>
   <data name="Read Only" xml:space="preserve">
     <value>Solo Lectura</value>
+  </data>
+  <data name="Recalculate Prices" xml:space="preserve">
+    <value>Recalcular Precios</value>
   </data>
   <data name="ReCaptcha validation must succeed." xml:space="preserve">
     <value>La validación ReCaptcha debe pasar con éxito.</value>
@@ -966,6 +1314,9 @@
   <data name="Refresh" xml:space="preserve">
     <value>Recargar</value>
   </data>
+  <data name="Refund Policies" xml:space="preserve">
+    <value>Políticas de reembolso</value>
+  </data>
   <data name="Refund Request Form" xml:space="preserve">
     <value>Formulario de solicitud de reembolso</value>
   </data>
@@ -975,6 +1326,9 @@
   <data name="Refunds" xml:space="preserve">
     <value>Reembolsos</value>
   </data>
+  <data name="Regions" xml:space="preserve">
+    <value>Regiones</value>
+  </data>
   <data name="Register" xml:space="preserve">
     <value>Registrar</value>
   </data>
@@ -983,6 +1337,9 @@
   </data>
   <data name="Register New Account" xml:space="preserve">
     <value>Registrar una cuenta nueva</value>
+  </data>
+  <data name="Regular Price" xml:space="preserve">
+    <value>Precio Regular</value>
   </data>
   <data name="Reload" xml:space="preserve">
     <value>Recargar</value>
@@ -1020,6 +1377,12 @@
   <data name="Response" xml:space="preserve">
     <value>Respuesta</value>
   </data>
+  <data name="Retain Samples" xml:space="preserve">
+    <value>Muestras</value>
+  </data>
+  <data name="Return Policies" xml:space="preserve">
+    <value>Políticas de devolución</value>
+  </data>
   <data name="Return Request Form" xml:space="preserve">
     <value>Formulario de solicitud de devolución</value>
   </data>
@@ -1031,6 +1394,9 @@
   </data>
   <data name="Roles" xml:space="preserve">
     <value>Roles</value>
+  </data>
+  <data name="Sales" xml:space="preserve">
+    <value>Ventas</value>
   </data>
   <data name="Sandbox" xml:space="preserve">
     <value>Sandbox</value>
@@ -1059,6 +1425,21 @@
   <data name="Search..." xml:space="preserve">
     <value>Buscar...</value>
   </data>
+  <data name="Second" xml:space="preserve">
+    <value>Segundo</value>
+  </data>
+  <data name="Secondary Brands" xml:space="preserve">
+    <value>Marcas Secundarias</value>
+  </data>
+  <data name="Secondary Categories" xml:space="preserve">
+    <value>Categorías Secundarias</value>
+  </data>
+  <data name="Secondary Category" xml:space="preserve">
+    <value>Categoría Secundaria</value>
+  </data>
+  <data name="Secondary Types" xml:space="preserve">
+    <value>Tipos Secundarios</value>
+  </data>
   <data name="Seconds" xml:space="preserve">
     <value>Segundos</value>
   </data>
@@ -1083,8 +1464,38 @@
   <data name="Settings" xml:space="preserve">
     <value>Ajustes</value>
   </data>
+  <data name="Shares (Stocks)" xml:space="preserve">
+    <value>Acciones</value>
+  </data>
+  <data name="Shipments" xml:space="preserve">
+    <value>Envíos</value>
+  </data>
+  <data name="Shipping Classes" xml:space="preserve">
+    <value>Clases de Envío</value>
+  </data>
   <data name="Shipping Country" xml:space="preserve">
     <value>País de Envío</value>
+  </data>
+  <data name="Shipping Labels" xml:space="preserve">
+    <value>Etiquetas de Envío</value>
+  </data>
+  <data name="Shipping Methods" xml:space="preserve">
+    <value>Métodos de Envío</value>
+  </data>
+  <data name="Shipping Packages" xml:space="preserve">
+    <value>Paquetes de Envío</value>
+  </data>
+  <data name="Shipping Policies" xml:space="preserve">
+    <value>Políticas de Envío</value>
+  </data>
+  <data name="Shipping Policy" xml:space="preserve">
+    <value>Política de Envío</value>
+  </data>
+  <data name="Shipping Regions" xml:space="preserve">
+    <value>Regiones de Envío</value>
+  </data>
+  <data name="Shipping Zones" xml:space="preserve">
+    <value>Zonas de Envío</value>
   </data>
   <data name="Shoping Carts" xml:space="preserve">
     <value>Carritos de Compras</value>
@@ -1092,14 +1503,26 @@
   <data name="Shopping Cart" xml:space="preserve">
     <value>Carrito de Compras</value>
   </data>
+  <data name="Short Description" xml:space="preserve">
+    <value>Breve descripción</value>
+  </data>
+  <data name="Short Item Description" xml:space="preserve">
+    <value>Descripción corta del Artículo</value>
+  </data>
   <data name="Sign Out" xml:space="preserve">
     <value>Cerrar Sesión</value>
+  </data>
+  <data name="Signatures" xml:space="preserve">
+    <value>Firmas</value>
   </data>
   <data name="SKU" xml:space="preserve">
     <value>SKU</value>
   </data>
   <data name="Social Feed" xml:space="preserve">
     <value>Feed social</value>
+  </data>
+  <data name="Social Groups" xml:space="preserve">
+    <value>Grupos Sociales</value>
   </data>
   <data name="Social Network" xml:space="preserve">
     <value>Red Social</value>
@@ -1109,6 +1532,12 @@
   </data>
   <data name="Spanish" xml:space="preserve">
     <value>Español</value>
+  </data>
+  <data name="Spatial Data Measurement Unit" xml:space="preserve">
+    <value>Unidad de medida de datos espaciales</value>
+  </data>
+  <data name="Start Date" xml:space="preserve">
+    <value>Fecha de Inicio</value>
   </data>
   <data name="Start Lync call" xml:space="preserve">
     <value>Iniciar la llamada de Lync</value>
@@ -1122,6 +1551,12 @@
   <data name="State / Department" xml:space="preserve">
     <value>Estado / Departamento</value>
   </data>
+  <data name="Stock" xml:space="preserve">
+    <value>Inventario</value>
+  </data>
+  <data name="Stock Items" xml:space="preserve">
+    <value>Artículos de stock</value>
+  </data>
   <data name="Storage" xml:space="preserve">
     <value>Almacenamiento</value>
   </data>
@@ -1131,8 +1566,20 @@
   <data name="Submit" xml:space="preserve">
     <value>Enviar</value>
   </data>
+  <data name="Subsidiary Businesses" xml:space="preserve">
+    <value>Subsidiarias</value>
+  </data>
   <data name="Subtotal" xml:space="preserve">
     <value>Subtotal</value>
+  </data>
+  <data name="Supplier" xml:space="preserve">
+    <value>Proveedor</value>
+  </data>
+  <data name="Supplier Code" xml:space="preserve">
+    <value>Código del Proveedor</value>
+  </data>
+  <data name="Supplier URL" xml:space="preserve">
+    <value>URL del Proveedor</value>
   </data>
   <data name="Support Entitlement Form" xml:space="preserve">
     <value>Formulario de autorización de soporte</value>
@@ -1170,6 +1617,12 @@
   <data name="Tax ID" xml:space="preserve">
     <value>Identificación Fiscal</value>
   </data>
+  <data name="Tax Policies" xml:space="preserve">
+    <value>Políticas de Impuestos</value>
+  </data>
+  <data name="Taxable" xml:space="preserve">
+    <value>Sujeto a Impuestos</value>
+  </data>
   <data name="Taxes" xml:space="preserve">
     <value>Impuestos</value>
   </data>
@@ -1206,6 +1659,9 @@
   <data name="This action only disable 2FA." xml:space="preserve">
     <value>Esta acción solo deshabilita 2FA.</value>
   </data>
+  <data name="This Month" xml:space="preserve">
+    <value>Este Mes</value>
+  </data>
   <data name="This order id valid was digitally issued and is valid without the signature and seal." xml:space="preserve">
     <value>Esta identificación de pedido válida fue emitida digitalmente y es válida sin la firma y el sello.</value>
   </data>
@@ -1214,6 +1670,9 @@
   </data>
   <data name="This process disables 2FA until you verify your authenticator app and will also reset your 2FA recovery codes." xml:space="preserve">
     <value>Este proceso deshabilita 2FA hasta que verifique su aplicación de autenticación y también restablecerá sus códigos de recuperación 2FA.</value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>Tiempo</value>
   </data>
   <data name="Timeline" xml:space="preserve">
     <value>Muro</value>
@@ -1230,6 +1689,9 @@
   <data name="Title" xml:space="preserve">
     <value>Título</value>
   </data>
+  <data name="Tonne" xml:space="preserve">
+    <value>Tonelada</value>
+  </data>
   <data name="Tools" xml:space="preserve">
     <value>Herramientas</value>
   </data>
@@ -1241,6 +1703,9 @@
   </data>
   <data name="Total Available" xml:space="preserve">
     <value>Total Disponible</value>
+  </data>
+  <data name="Total Price in USD" xml:space="preserve">
+    <value>Precio Total en USD</value>
   </data>
   <data name="Total Sale" xml:space="preserve">
     <value>Venta total</value>
@@ -1257,8 +1722,20 @@
   <data name="Type" xml:space="preserve">
     <value>Tipo</value>
   </data>
+  <data name="Types" xml:space="preserve">
+    <value>Tipos</value>
+  </data>
   <data name="Unfollow" xml:space="preserve">
     <value>Dejar de Seguir</value>
+  </data>
+  <data name="Unit" xml:space="preserve">
+    <value>Unidad</value>
+  </data>
+  <data name="Unit Group" xml:space="preserve">
+    <value>Grupo de Unidades</value>
+  </data>
+  <data name="Units" xml:space="preserve">
+    <value>Unidades</value>
   </data>
   <data name="Unpaid" xml:space="preserve">
     <value>Pendiente de Pago</value>
@@ -1293,6 +1770,9 @@
   <data name="Valid Until" xml:space="preserve">
     <value>Válido Hasta</value>
   </data>
+  <data name="VAT" xml:space="preserve">
+    <value>IVA</value>
+  </data>
   <data name="VAT Withholding" xml:space="preserve">
     <value>Retención de IVA</value>
   </data>
@@ -1303,7 +1783,7 @@
     <value>Verificar</value>
   </data>
   <data name="View All" xml:space="preserve">
-    <value>Ver todo</value>
+    <value>Ver Todos</value>
   </data>
   <data name="View Profile" xml:space="preserve">
     <value>Ver Perfil</value>
@@ -1317,8 +1797,20 @@
   <data name="Wallet" xml:space="preserve">
     <value>Billetera</value>
   </data>
+  <data name="Warehouses" xml:space="preserve">
+    <value>Almacenes</value>
+  </data>
+  <data name="Warranty Policies" xml:space="preserve">
+    <value>Políticas de garantía</value>
+  </data>
+  <data name="Web Portals" xml:space="preserve">
+    <value>Portales Web</value>
+  </data>
   <data name="Website" xml:space="preserve">
     <value>Sitio Web</value>
+  </data>
+  <data name="Week" xml:space="preserve">
+    <value>Semana</value>
   </data>
   <data name="Weeks" xml:space="preserve">
     <value>Semanas</value>
@@ -1346,6 +1838,12 @@
   </data>
   <data name="Workforce Center" xml:space="preserve">
     <value>Workforce Center</value>
+  </data>
+  <data name="Year (Gregorian Calendar)" xml:space="preserve">
+    <value>Año (calendario gregoriano)</value>
+  </data>
+  <data name="Year (Islamic Calendar)" xml:space="preserve">
+    <value>Año (calendario islámico)</value>
   </data>
   <data name="You can" xml:space="preserve">
     <value>Usted puede</value>
@@ -1430,6 +1928,9 @@
   </data>
   <data name="Your Wallet" xml:space="preserve">
     <value>Tu Billetera</value>
+  </data>
+  <data name="Zones" xml:space="preserve">
+    <value>Zonas</value>
   </data>
   <data name="{0} Tax Withholding" xml:space="preserve">
     <value>Retención de Impuesto de {0}</value>
