@@ -1062,6 +1062,9 @@
   <data name="Ooops! This looks empty" xml:space="preserve">
     <value>¡Vaya! Esto luce vacío</value>
   </data>
+  <data name="Oops! This looks empty." xml:space="preserve">
+    <value>¡Vaya! Esto luce vacío.</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Abrir</value>
   </data>
