@@ -267,6 +267,15 @@
   <data name="Bank Accounts" xml:space="preserve">
     <value>Cuentas Bancarias</value>
   </data>
+  <data name="Bank Transaction" xml:space="preserve">
+    <value>Transacción bancaria</value>
+  </data>
+  <data name="Bank Transactions" xml:space="preserve">
+    <value>Transacciones Bancarias</value>
+  </data>
+  <data name="Banking" xml:space="preserve">
+    <value>Bancario</value>
+  </data>
   <data name="Banks" xml:space="preserve">
     <value>Bancos</value>
   </data>
@@ -414,6 +423,12 @@
   <data name="Contact" xml:space="preserve">
     <value>Contacto</value>
   </data>
+  <data name="Contact Profile" xml:space="preserve">
+    <value>Perfil de contacto</value>
+  </data>
+  <data name="Contact Profiles" xml:space="preserve">
+    <value>Perfiles de contacto</value>
+  </data>
   <data name="Correlation Code" xml:space="preserve">
     <value>Código de Correlación</value>
   </data>
@@ -465,6 +480,9 @@
   <data name="Credit Card's Bank" xml:space="preserve">
     <value>Banco de la tarjeta de crédito</value>
   </data>
+  <data name="Credit Notes" xml:space="preserve">
+    <value>Notas Crédito</value>
+  </data>
   <data name="Credits" xml:space="preserve">
     <value>Créditos</value>
   </data>
@@ -506,6 +524,9 @@
   </data>
   <data name="Debit" xml:space="preserve">
     <value>Débito</value>
+  </data>
+  <data name="Debit Notes" xml:space="preserve">
+    <value>Notas Débito</value>
   </data>
   <data name="Debits" xml:space="preserve">
     <value>Débitos</value>
@@ -653,6 +674,48 @@
   </data>
   <data name="Fee" xml:space="preserve">
     <value>Tarifa</value>
+  </data>
+  <data name="Financial Book" xml:space="preserve">
+    <value>Libro Financiero</value>
+  </data>
+  <data name="Financial Books" xml:space="preserve">
+    <value>Libros Financieros</value>
+  </data>
+  <data name="Financial Budget" xml:space="preserve">
+    <value>Presupuesto financiero</value>
+  </data>
+  <data name="Financial Budgets" xml:space="preserve">
+    <value>Presupuestos Financieros</value>
+  </data>
+  <data name="Fiscal Authorities" xml:space="preserve">
+    <value>Autoridades Fiscales</value>
+  </data>
+  <data name="Fiscal Authority" xml:space="preserve">
+    <value>Autoridad Fiscal</value>
+  </data>
+  <data name="Fiscal Identification Type" xml:space="preserve">
+    <value>Tipo de Identificación Fiscal</value>
+  </data>
+  <data name="Fiscal Identification Types" xml:space="preserve">
+    <value>Tipos de Identificación Fiscal</value>
+  </data>
+  <data name="Fiscal Regime" xml:space="preserve">
+    <value>Régimen Fiscal</value>
+  </data>
+  <data name="Fiscal Regimes" xml:space="preserve">
+    <value>Regímenes Fiscales</value>
+  </data>
+  <data name="Fiscal Responsibilities" xml:space="preserve">
+    <value>Responsabilidades Fiscales</value>
+  </data>
+  <data name="Fiscal Responsibility" xml:space="preserve">
+    <value>Responsabilidad fiscal</value>
+  </data>
+  <data name="Fiscal Year" xml:space="preserve">
+    <value>Año fiscal</value>
+  </data>
+  <data name="Fiscal Years" xml:space="preserve">
+    <value>Años Fiscales</value>
   </data>
   <data name="Fixed Discount" xml:space="preserve">
     <value>Descuento Fijo</value>
@@ -804,6 +867,12 @@
   <data name="Invoice" xml:space="preserve">
     <value>Factura</value>
   </data>
+  <data name="Invoice Range" xml:space="preserve">
+    <value>Rango de facturación</value>
+  </data>
+  <data name="Invoice Ranges" xml:space="preserve">
+    <value>Rangos de facturación</value>
+  </data>
   <data name="Invoices" xml:space="preserve">
     <value>Facturas</value>
   </data>
@@ -843,6 +912,18 @@
   <data name="Join" xml:space="preserve">
     <value>Unirse</value>
   </data>
+  <data name="Journal" xml:space="preserve">
+    <value>Libro Diario</value>
+  </data>
+  <data name="Journal Type" xml:space="preserve">
+    <value>Tipos de Libros Diarios</value>
+  </data>
+  <data name="Journal Types" xml:space="preserve">
+    <value>Tipos de Libros Mayores</value>
+  </data>
+  <data name="Journals" xml:space="preserve">
+    <value>Libros Diarios</value>
+  </data>
   <data name="Kanban" xml:space="preserve">
     <value>Kanban</value>
   </data>
@@ -879,6 +960,12 @@
   <data name="Leap Year (Islamic Calendar)" xml:space="preserve">
     <value>Año bisiesto (calendario islámico)</value>
   </data>
+  <data name="Ledger" xml:space="preserve">
+    <value>Libro Mayor</value>
+  </data>
+  <data name="Ledgers" xml:space="preserve">
+    <value>Libros Mayores</value>
+  </data>
   <data name="Let's get social!" xml:space="preserve">
     <value>¡Pongámonos sociales!</value>
   </data>
@@ -896,6 +983,12 @@
   </data>
   <data name="Loading..." xml:space="preserve">
     <value>Cargando...</value>
+  </data>
+  <data name="Loan" xml:space="preserve">
+    <value>Préstamo</value>
+  </data>
+  <data name="Loans" xml:space="preserve">
+    <value>Préstamos</value>
   </data>
   <data name="Locked out" xml:space="preserve">
     <value>Bloqueado</value>
@@ -1203,6 +1296,9 @@
   <data name="Price Lists" xml:space="preserve">
     <value>Listas de precios</value>
   </data>
+  <data name="Pricing Margins" xml:space="preserve">
+    <value>Márgenes de precios</value>
+  </data>
   <data name="Pricing Rules" xml:space="preserve">
     <value>Reglas de Precios</value>
   </data>
@@ -1260,6 +1356,9 @@
   <data name="Profile" xml:space="preserve">
     <value>Perfil</value>
   </data>
+  <data name="Profiles" xml:space="preserve">
+    <value>Perfiles</value>
+  </data>
   <data name="Projects" xml:space="preserve">
     <value>Proyectos</value>
   </data>
@@ -1298,6 +1397,12 @@
   </data>
   <data name="ReCaptcha validation must succeed." xml:space="preserve">
     <value>La validación ReCaptcha debe pasar con éxito.</value>
+  </data>
+  <data name="Receipt" xml:space="preserve">
+    <value>Recibo</value>
+  </data>
+  <data name="Receipts" xml:space="preserve">
+    <value>Recibos</value>
   </data>
   <data name="Recently Viewed" xml:space="preserve">
     <value>Recién Visto</value>
@@ -1467,6 +1572,18 @@
   <data name="Settings" xml:space="preserve">
     <value>Ajustes</value>
   </data>
+  <data name="Share Classes" xml:space="preserve">
+    <value>Clases de Acciones</value>
+  </data>
+  <data name="Share Issuances" xml:space="preserve">
+    <value>Emisiones de Acciones</value>
+  </data>
+  <data name="Share Transfers" xml:space="preserve">
+    <value>Transferencias de Acciones</value>
+  </data>
+  <data name="Shares" xml:space="preserve">
+    <value>Acciones</value>
+  </data>
   <data name="Shares (Stocks)" xml:space="preserve">
     <value>Acciones</value>
   </data>
@@ -1616,6 +1733,9 @@
   </data>
   <data name="Tax % to apply" xml:space="preserve">
     <value>% De impuesto a aplicar</value>
+  </data>
+  <data name="Tax Classes" xml:space="preserve">
+    <value>Clases de Impuestos</value>
   </data>
   <data name="Tax ID" xml:space="preserve">
     <value>Identificación Fiscal</value>
