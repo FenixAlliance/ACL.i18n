@@ -285,6 +285,9 @@
   <data name="Base Amount" xml:space="preserve">
     <value>Monto base</value>
   </data>
+  <data name="Base Price" xml:space="preserve">
+    <value>Precio base</value>
+  </data>
   <data name="before you can log in with a recovery code." xml:space="preserve">
     <value>antes de poder iniciar sesión con un código de recuperación.</value>
   </data>
@@ -564,11 +567,17 @@
   <data name="Disabling 2FA does not change the keys used in authenticator apps." xml:space="preserve">
     <value>La desactivación de 2FA no cambia las claves utilizadas en las aplicaciones de autenticación.</value>
   </data>
+  <data name="Discount %" xml:space="preserve">
+    <value>% de descuento</value>
+  </data>
   <data name="Discount Amount" xml:space="preserve">
     <value>Monto de Descuento</value>
   </data>
   <data name="Discount Percentage" xml:space="preserve">
     <value>Procentaje de Descuento</value>
+  </data>
+  <data name="Discounts Amount" xml:space="preserve">
+    <value>Monto de los descuentos</value>
   </data>
   <data name="Display Categorizer" xml:space="preserve">
     <value>Abrir Categorizador</value>
@@ -642,14 +651,29 @@
   <data name="Error" xml:space="preserve">
     <value>Error</value>
   </data>
+  <data name="Estimated Amount" xml:space="preserve">
+    <value>Cantidad estimada</value>
+  </data>
+  <data name="Estimated Final Price" xml:space="preserve">
+    <value>Precio Final Estimado</value>
+  </data>
+  <data name="Estimated Prices" xml:space="preserve">
+    <value>Precios estimados</value>
+  </data>
   <data name="Estimated Profit" xml:space="preserve">
     <value>Ganancia Estimada</value>
   </data>
   <data name="Estimated Revenue" xml:space="preserve">
     <value>Ingreso Estimado</value>
   </data>
+  <data name="Estimated Taxes Amount" xml:space="preserve">
+    <value>Monto del impuestos estimados</value>
+  </data>
   <data name="Estimated Tevenue" xml:space="preserve">
     <value>Ingreso Estimado</value>
+  </data>
+  <data name="Estimated Total Price" xml:space="preserve">
+    <value>Precio Total Estimado</value>
   </data>
   <data name="Expenses" xml:space="preserve">
     <value>Egresos</value>
@@ -752,6 +776,12 @@
   </data>
   <data name="Found a bug? Please contact support." xml:space="preserve">
     <value>¿Encontraste un error? Comunícate con soporte.</value>
+  </data>
+  <data name="Freight Cost Amount" xml:space="preserve">
+    <value>Monto del costo de flete</value>
+  </data>
+  <data name="Freight Tax Amount" xml:space="preserve">
+    <value>Monto del impuesto de flete</value>
   </data>
   <data name="General System Overview" xml:space="preserve">
     <value>Vistazo general del sistema</value>
@@ -1230,6 +1260,9 @@
   <data name="Payment" xml:space="preserve">
     <value>Pago</value>
   </data>
+  <data name="Payment Cost Amount" xml:space="preserve">
+    <value>Monto del costo del pago</value>
+  </data>
   <data name="Payment Gateway" xml:space="preserve">
     <value>Pasarela de pago</value>
   </data>
@@ -1244,6 +1277,9 @@
   </data>
   <data name="Payment Status Outlook" xml:space="preserve">
     <value>Perspectiva del estado de pago</value>
+  </data>
+  <data name="Payment Tax Amount" xml:space="preserve">
+    <value>Monto del impuesto de pago</value>
   </data>
   <data name="Payments" xml:space="preserve">
     <value>Pagos</value>
@@ -1359,6 +1395,9 @@
   <data name="Profiles" xml:space="preserve">
     <value>Perfiles</value>
   </data>
+  <data name="Profit Amount" xml:space="preserve">
+    <value>Monto del beneficio</value>
+  </data>
   <data name="Projects" xml:space="preserve">
     <value>Proyectos</value>
   </data>
@@ -1382,6 +1421,12 @@
   </data>
   <data name="Quick Links" xml:space="preserve">
     <value>Enlaces rápidos</value>
+  </data>
+  <data name="Quote" xml:space="preserve">
+    <value>Cotización</value>
+  </data>
+  <data name="Quotes" xml:space="preserve">
+    <value>Cotizaciones</value>
   </data>
   <data name="Reaction" xml:space="preserve">
     <value>Reacción</value>
@@ -1719,6 +1764,9 @@
   <data name="Support Ticket Form" xml:space="preserve">
     <value>Formulario de ticket de soporte</value>
   </data>
+  <data name="Surcharges Amount" xml:space="preserve">
+    <value>Monto de los recargos</value>
+  </data>
   <data name="Take a look at the curriculum." xml:space="preserve">
     <value>Echa un vistazo al plan de estudios.</value>
   </data>
@@ -1826,6 +1874,9 @@
   </data>
   <data name="Total Available" xml:space="preserve">
     <value>Total Disponible</value>
+  </data>
+  <data name="Total Discounts" xml:space="preserve">
+    <value>Descuentos totales</value>
   </data>
   <data name="Total Price in USD" xml:space="preserve">
     <value>Precio Total en USD</value>
