@@ -324,8 +324,14 @@
   <data name="Business Cart" xml:space="preserve">
     <value>Carrito Empresarial</value>
   </data>
+  <data name="Business Departments" xml:space="preserve">
+    <value>Departamentos de Negocio</value>
+  </data>
   <data name="Business Network" xml:space="preserve">
     <value>Red de Negocios</value>
+  </data>
+  <data name="Business Positions" xml:space="preserve">
+    <value>Posiciones de Negocio</value>
   </data>
   <data name="Business Profile" xml:space="preserve">
     <value>Perfil Empresarial</value>
@@ -336,11 +342,20 @@
   <data name="Business Social Profile" xml:space="preserve">
     <value>Perfil Social Empresarial</value>
   </data>
+  <data name="Business Teams" xml:space="preserve">
+    <value>Equipos de Negocio</value>
+  </data>
   <data name="Business Tenants" xml:space="preserve">
     <value>Perfiles Empresariales</value>
   </data>
+  <data name="Business Territories" xml:space="preserve">
+    <value>Territorios de Negocio</value>
+  </data>
   <data name="Business Tools" xml:space="preserve">
     <value>Herramientas</value>
+  </data>
+  <data name="Business Units" xml:space="preserve">
+    <value>Unidades de Negocio</value>
   </data>
   <data name="Business Wallet" xml:space="preserve">
     <value>Billetera Empresarial</value>
@@ -425,6 +440,12 @@
   </data>
   <data name="Contact" xml:space="preserve">
     <value>Contacto</value>
+  </data>
+  <data name="Contact Inquiries" xml:space="preserve">
+    <value>Solicitudes de Contacto</value>
+  </data>
+  <data name="Contact Inquiry" xml:space="preserve">
+    <value>Solicitud de Contacto</value>
   </data>
   <data name="Contact Profile" xml:space="preserve">
     <value>Perfil de contacto</value>
@@ -816,6 +837,9 @@
   <data name="Helpdesk" xml:space="preserve">
     <value>Helpdesk</value>
   </data>
+  <data name="Helpdesk Module" xml:space="preserve">
+    <value>Módulo HelpDesk</value>
+  </data>
   <data name="Holder" xml:space="preserve">
     <value>Usuario</value>
   </data>
@@ -870,6 +894,9 @@
   <data name="In Stock" xml:space="preserve">
     <value>En Inventario</value>
   </data>
+  <data name="In Stock ({0})" xml:space="preserve">
+    <value>En Inventario ({0})</value>
+  </data>
   <data name="In Store" xml:space="preserve">
     <value>En la Tienda</value>
   </data>
@@ -885,8 +912,20 @@
   <data name="Incomes" xml:space="preserve">
     <value>Ingresos</value>
   </data>
+  <data name="Incoming Payments" xml:space="preserve">
+    <value>Pagos Entrantes</value>
+  </data>
+  <data name="Individual" xml:space="preserve">
+    <value>Individuo</value>
+  </data>
   <data name="Individuals" xml:space="preserve">
     <value>Individuos</value>
+  </data>
+  <data name="Inquiry Request" xml:space="preserve">
+    <value>Solicitud de Consulta</value>
+  </data>
+  <data name="Inquiry Requests" xml:space="preserve">
+    <value>Solicitudes de Consulta</value>
   </data>
   <data name="Instructor" xml:space="preserve">
     <value>Instructor</value>
@@ -982,7 +1021,7 @@
     <value>Apellidos</value>
   </data>
   <data name="Leads" xml:space="preserve">
-    <value>Leads</value>
+    <value>Prospectos</value>
   </data>
   <data name="Leap Year (Gregorian Calendar)" xml:space="preserve">
     <value>Año bisiesto (calendario gregoriano)</value>
@@ -1044,6 +1083,12 @@
   <data name="Maintenance" xml:space="preserve">
     <value>Mantenimiento</value>
   </data>
+  <data name="Maintenance Visit" xml:space="preserve">
+    <value>Visita de Mantenimiento</value>
+  </data>
+  <data name="Maintenance Visits" xml:space="preserve">
+    <value>Visitas de Mantenimiento</value>
+  </data>
   <data name="Make sure that the code displayed on the device is &lt;strong&gt;{0}&lt;/strong&gt;." xml:space="preserve">
     <value>Asegúrese de que el código que se muestra en el dispositivo sea &lt;strong&gt; {0} &lt;/strong&gt;.</value>
   </data>
@@ -1064,6 +1109,12 @@
   </data>
   <data name="Margin Policies" xml:space="preserve">
     <value>Políticas de Márgenes</value>
+  </data>
+  <data name="Marketing Campaign" xml:space="preserve">
+    <value>Campaña de Marketing</value>
+  </data>
+  <data name="Marketing Campaigns" xml:space="preserve">
+    <value>Campañas de Marketing</value>
   </data>
   <data name="Mass" xml:space="preserve">
     <value>Masa</value>
@@ -1128,6 +1179,9 @@
   <data name="Network Manager" xml:space="preserve">
     <value>Administrador de la Red</value>
   </data>
+  <data name="Newsletter Subscriptions" xml:space="preserve">
+    <value>Suscripciones a Boletines</value>
+  </data>
   <data name="No Brands" xml:space="preserve">
     <value>Sin Marcas</value>
   </data>
@@ -1160,6 +1214,9 @@
   </data>
   <data name="Not Operational" xml:space="preserve">
     <value>No Operacional</value>
+  </data>
+  <data name="Not Published ({0})" xml:space="preserve">
+    <value>No Publicado ({0})</value>
   </data>
   <data name="Notice" xml:space="preserve">
     <value>Nota</value>
@@ -1206,11 +1263,20 @@
   <data name="Orders" xml:space="preserve">
     <value>Órdenes</value>
   </data>
+  <data name="Organization" xml:space="preserve">
+    <value>Organización</value>
+  </data>
   <data name="Organizations" xml:space="preserve">
     <value>Organizaciones</value>
   </data>
   <data name="OS" xml:space="preserve">
     <value>SO</value>
+  </data>
+  <data name="Out Of Stock ({0})" xml:space="preserve">
+    <value>Puera de Inventario ({0})</value>
+  </data>
+  <data name="Outgoing Payments" xml:space="preserve">
+    <value>Pagos Salientes</value>
   </data>
   <data name="Outlook" xml:space="preserve">
     <value>Resumen</value>
@@ -1407,6 +1473,12 @@
   <data name="Published" xml:space="preserve">
     <value>Publicado</value>
   </data>
+  <data name="Published ({0})" xml:space="preserve">
+    <value>Publicado ({0})</value>
+  </data>
+  <data name="Purchase Invoices" xml:space="preserve">
+    <value>Facturas de Compra</value>
+  </data>
   <data name="Purchases" xml:space="preserve">
     <value>Compras</value>
   </data>
@@ -1551,6 +1623,9 @@
   <data name="Sales" xml:space="preserve">
     <value>Ventas</value>
   </data>
+  <data name="Sales Invoices" xml:space="preserve">
+    <value>Facturas de Venta</value>
+  </data>
   <data name="Sandbox" xml:space="preserve">
     <value>Sandbox</value>
   </data>
@@ -1595,6 +1670,9 @@
   </data>
   <data name="Seconds" xml:space="preserve">
     <value>Segundos</value>
+  </data>
+  <data name="Security" xml:space="preserve">
+    <value>Seguridad</value>
   </data>
   <data name="Send verification email" xml:space="preserve">
     <value>Envia un correo electronico de verificación</value>
@@ -1722,8 +1800,23 @@
   <data name="Stock Items" xml:space="preserve">
     <value>Artículos de stock</value>
   </data>
+  <data name="Stock Status" xml:space="preserve">
+    <value>Estado del Inventario</value>
+  </data>
+  <data name="Stock Status Outlook" xml:space="preserve">
+    <value>Vistazo al estado del Inventario</value>
+  </data>
   <data name="Storage" xml:space="preserve">
     <value>Almacenamiento</value>
+  </data>
+  <data name="Store Status" xml:space="preserve">
+    <value>Estado de la Tienda</value>
+  </data>
+  <data name="Store Status Outlook" xml:space="preserve">
+    <value>Vistazo al estado de la Tienda</value>
+  </data>
+  <data name="Structure" xml:space="preserve">
+    <value>Estructura</value>
   </data>
   <data name="Sub Total" xml:space="preserve">
     <value>Sub Total</value>
@@ -1758,11 +1851,20 @@
   <data name="Support Inquiry Form" xml:space="preserve">
     <value>Formulario de consulta de soporte</value>
   </data>
+  <data name="Support Request" xml:space="preserve">
+    <value>Solicitud de Soporte</value>
+  </data>
   <data name="Support Requests" xml:space="preserve">
     <value>Solicitudes de soporte</value>
   </data>
+  <data name="Support Ticket" xml:space="preserve">
+    <value>Tiquete de Soporte</value>
+  </data>
   <data name="Support Ticket Form" xml:space="preserve">
     <value>Formulario de ticket de soporte</value>
+  </data>
+  <data name="Support Tickets" xml:space="preserve">
+    <value>Tiquetes de Soporte</value>
   </data>
   <data name="Surcharges Amount" xml:space="preserve">
     <value>Monto de los recargos</value>
@@ -1971,11 +2073,20 @@
   <data name="Wallet" xml:space="preserve">
     <value>Billetera</value>
   </data>
+  <data name="Warehouse" xml:space="preserve">
+    <value>Bodega</value>
+  </data>
   <data name="Warehouses" xml:space="preserve">
     <value>Almacenes</value>
   </data>
   <data name="Warranty Policies" xml:space="preserve">
     <value>Políticas de garantía</value>
+  </data>
+  <data name="Warranty Request" xml:space="preserve">
+    <value>Solicitud de Garantía</value>
+  </data>
+  <data name="Warranty Requests" xml:space="preserve">
+    <value>Solicitudes de Garantía</value>
   </data>
   <data name="Web Portals" xml:space="preserve">
     <value>Portales Web</value>
