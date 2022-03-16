@@ -153,6 +153,9 @@
   <data name="Access denied" xml:space="preserve">
     <value>Acceso denegado</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Cuenta</value>
+  </data>
   <data name="Account Completion Progress" xml:space="preserve">
     <value>Progreso de finalización de la cuenta</value>
   </data>
@@ -164,6 +167,9 @@
   </data>
   <data name="Account Holder Logins" xml:space="preserve">
     <value>Inicios de Sesión de Usuario</value>
+  </data>
+  <data name="Accounting" xml:space="preserve">
+    <value>Contabilidad</value>
   </data>
   <data name="Accounting Manager" xml:space="preserve">
     <value>Gestor Contable</value>
@@ -290,6 +296,9 @@
   </data>
   <data name="before you can log in with a recovery code." xml:space="preserve">
     <value>antes de poder iniciar sesión con un código de recuperación.</value>
+  </data>
+  <data name="Billing" xml:space="preserve">
+    <value>Facturación</value>
   </data>
   <data name="Billing Address" xml:space="preserve">
     <value>Dirección de Facturación</value>
