@@ -261,6 +261,9 @@
   <data name="Away" xml:space="preserve">
     <value>Lejos</value>
   </data>
+  <data name="Back Name" xml:space="preserve">
+    <value>Nombre Inverso</value>
+  </data>
   <data name="Balance" xml:space="preserve">
     <value>Balance</value>
   </data>
