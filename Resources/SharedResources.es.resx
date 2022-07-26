@@ -1009,7 +1009,7 @@
     <value>Kanban</value>
   </data>
   <data name="Keep me logged in on this device?" xml:space="preserve">
-    <value>Mantener Sesión Iniciada en este dispositivo</value>
+    <value>¿Mantener Sesión Iniciada en este dispositivo?</value>
   </data>
   <data name="Kilograms" xml:space="preserve">
     <value>Kilogramos</value>
@@ -1585,7 +1585,7 @@
     <value>Estado de correlación de pago informado</value>
   </data>
   <data name="Reported Payment Status" xml:space="preserve">
-    <value>Estado informado de pago </value>
+    <value>Estado informado de pago</value>
   </data>
   <data name="Request a Refund" xml:space="preserve">
     <value>Solicitar un reembolso</value>
